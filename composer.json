@@ -1,12 +1,12 @@
 {
-    "name": "goavega-software/azureservicebus",
+    "name": "premierssg/azureservicebus",
     "description": "This is a fork of now abandoned windows-azure for Service Bus.",
     "keywords": ["php", "azure", "sdk"],
     "license": "Apache-2.0",
     "type": "package",
     "authors": [{
         "name": "Azure Service Bus PHP SDK",
-        "email": "opensource@goavega.com"
+        "email": "opensource@innovarsolutions.com"
     }],
     "require": {
         "php": ">=7.2.0",
